@@ -1,4 +1,4 @@
-# Project 2: HTTPClient & HTTPServer
+# TCP Web Server: HTTPClient & HTTPServer
 
 This project was created by **Gabriel Black** and **Andrew Pierpoint**. It is a lightweight HTTP client and server implemented in **C++** using TCP sockets. The client and server was developed and tested on **WSL (Windows Subsystem for Linux)**.
 
